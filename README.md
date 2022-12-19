@@ -1,6 +1,6 @@
 # vue-contact-manager
 
-## Project setup
+## Vue Project setup
 ```
 yarn install
 ```
@@ -18,6 +18,12 @@ yarn build
 ### Lints and fixes files
 ```
 yarn lint
+```
+
+
+## Run JSON Server on 9000 port, cd server
+```
+npm start
 ```
 
 ### Customize configuration
