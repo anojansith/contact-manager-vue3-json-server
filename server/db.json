@@ -1,0 +1,66 @@
+{
+  "contacts": [
+    {
+      "id": "HJJH232j",
+      "name": "John Borough",
+      "company": "Realtube",
+      "email": "john@yahoo.com",
+      "title": "Youtuber",
+      "mobile": 5198197178,
+      "photo": "https://www.pngitem.com/pimgs/m/627-6275754_chad-profile-pic-profile-photo-circle-png-transparent.png",
+      "groupId": "4"
+    },
+    {
+      "id": "RIURIH232j",
+      "name": "Anojan Sithamparappillai",
+      "company": "Microsoft",
+      "email": "sithanojan@yahoo.com",
+      "title": "Tech Guy",
+      "mobile": 8199197078,
+      "photo": "https://qph.cf2.quoracdn.net/main-thumb-193484223-200-ylynigporthtwlhfjpuvsmvhvqwuhqiq.jpeg",
+      "groupId": "2"
+    },
+    {
+      "name": "Alice",
+      "photo": "https://earthlette.com.au/wp-content/uploads/2016/10/Jem-final-profile-pic-circle2.png",
+      "email": "alice@yahoo.com",
+      "mobile": 6148282828,
+      "company": "Amazon",
+      "title": "Developer",
+      "groupId": "2",
+      "id": "VdW7AOa"
+    },
+    {
+      "name": "Jessica",
+      "photo": "https://www.mockofun.com/wp-content/uploads/2019/12/circle-profile-pic.jpg",
+      "email": "jessica@gmail.com",
+      "mobile": 6172636266,
+      "company": "Renaud",
+      "title": "Content Creator",
+      "groupId": "1",
+      "id": "PewIItW"
+    }
+  ],
+  "groups": [
+    {
+      "id": "1",
+      "name": "Colleague"
+    },
+    {
+      "id": "2",
+      "name": "Friend"
+    },
+    {
+      "id": "3",
+      "name": "Family"
+    },
+    {
+      "id": "4",
+      "name": "Service"
+    },
+    {
+      "id": "5",
+      "name": "Community"
+    }
+  ]
+}
